@@ -1,0 +1,13 @@
+prefix=G:/gaurav education/GENERATIVEAI PROJECTS/Chat_with_multiple_pdf_GEMINI_PROO/chat_with_pdf_gemini/Library
+exec_prefix=G:/gaurav education/GENERATIVEAI PROJECTS/Chat_with_multiple_pdf_GEMINI_PROO/chat_with_pdf_gemini/Library
+libdir=G:/gaurav education/GENERATIVEAI PROJECTS/Chat_with_multiple_pdf_GEMINI_PROO/chat_with_pdf_gemini/Library/lib
+sharedlibdir=G:/gaurav education/GENERATIVEAI PROJECTS/Chat_with_multiple_pdf_GEMINI_PROO/chat_with_pdf_gemini/Library/lib
+includedir=G:/gaurav education/GENERATIVEAI PROJECTS/Chat_with_multiple_pdf_GEMINI_PROO/chat_with_pdf_gemini/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
