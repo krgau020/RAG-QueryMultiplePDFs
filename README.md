@@ -1,4 +1,4 @@
-# 📚 Chat With Multiple PDFs — Powered by Google Gemini Pro
+# 📚 Chat With Multiple PDFs 
 
 Ask questions across multiple PDF files at once — with smart, context-aware answers powered by Google’s **Gemini Pro** large language model.
 
@@ -29,7 +29,7 @@ This project lets you:
 ## 📂 Project Structure
 
 ```plaintext
-Chat_With_Multiple_Pdf_GOOGLE_GEMINI_PRO/
+AskAnything-QueryMultiplePDFs-with-Gemini-Pro/
 ├── app.py             # Main script to run the chat system
 ├── requirements.txt   # Python dependencies
 ├── uploads/           # Folder for uploaded PDFs
@@ -42,7 +42,7 @@ Chat_With_Multiple_Pdf_GOOGLE_GEMINI_PRO/
 ### 1️⃣ Clone the Repository  
 Clone the repository and change into the project directory:
 
-git clone https://github.com/krgau020/Chat_With_Multiple_Pdf_GOOGLE_GEMINI_PRO.git  
+git clone https://github.com/krgau020/AskAnything-QueryMultiplePDFs-with-Gemini-Pro.git  
 cd Chat_With_Multiple_Pdf_GOOGLE_GEMINI_PRO
 
 ---
